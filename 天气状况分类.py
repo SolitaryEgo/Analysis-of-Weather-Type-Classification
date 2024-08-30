@@ -96,4 +96,3 @@ print(report)
 # Support (支持度): 635，即测试集中实际多云的样本总数。
 
 
-# https://www.kaggle.com/datasets/nikhil7280/weather-type-classification/data
